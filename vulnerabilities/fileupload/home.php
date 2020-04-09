@@ -11,7 +11,7 @@
         As the name depicts, this issues happens when application does not validate file that is being uploaded by user. An attacker can upload malicious files called webshells on the server that could leads to complete server compromise. 
         </p>
         <p>Read more about Unrestricted File Upload<br>
-        <strong><a target="_blank" href="https://www.owasp.org/index.php/Unrestricted_File_Upload">https://www.owasp.org/index.php/Unrestricted_File_Upload</a></p></strong>
+        <strong><a target="_blank" href="https://owasp.org/www-community/vulnerabilities/Unrestricted_File_Upload">https://www.owasp.org/index.php/Unrestricted_File_Upload</a></p></strong>
 
     </div>
       </div>
